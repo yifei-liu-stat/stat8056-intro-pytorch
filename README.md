@@ -1,7 +1,7 @@
 # STAT8056 tutorial session
 
 
-The complementary notebook (using Google Colab) can be accessed from [here](https://colab.research.google.com/drive/1N2F-X4Q9-9Dr-zuUNMPUZQb8of3HMHc5?usp=sharing).
+The complementary Google Colab notebook: [click here](https://colab.research.google.com/drive/1N2F-X4Q9-9Dr-zuUNMPUZQb8of3HMHc5?usp=sharing).
 
 Tutorial session (on PyTorch basics) for [STAT8056](http://users.stat.umn.edu/~xshen/stat8056.htm), UMN Statistics. The following topics will be covered:
 * Set up the working/coding environment for Python (either locally or on a remote host)
